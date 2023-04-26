@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AmineOssafi you can call me Amine
+- 👀 I’m interested in gamedev
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on a game
+- 📫 How to reach me by discord: Myusernameis#9262
